@@ -15,15 +15,9 @@ Avant de commencer, assurez-vous d'avoir installé les logiciels suivants :
 - [Node.js](https://nodejs.org/) (version 12 ou supérieure)
 - [MySQL](https://www.mysql.com/) (version 5.7 ou supérieure)
 
-## Installation
 
-1. **Clonez le dépôt :**
-
-   ```bash
-   git clone https://github.com/siwar630/Restaurant-Dashboard_Spark_RDBMS.git
-   cd Restaurant-Dashboard_Spark_RDBMS
    
-2. **Démarrez le serveur :**
+ **Démarrez le serveur :**
    
    ```bash
    node server.js
